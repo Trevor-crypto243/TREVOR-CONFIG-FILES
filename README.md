@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trevor-crypto243
+- 👋 Hi, I’m Trevor Ogina
 - 👀 I’m interested in software development and programming
 - 🌱 I’m currently learning about Software Architecture and Data Science
 - 💞️ I’m looking to collaborate on open source projects 
@@ -6,6 +6,8 @@
 - My Website    https://itstrevor.herokuapp.com/
 - Linkedin   https://www.linkedin.com/in/trevor-ogina-150937213/
 - Instagram  https://www.instagram.com/otitrevor/
+- Github    https://github.com/Trevor-crypto243
+- Email   otitrevor450@gmail.com
 
 <!---
 Trevor-crypto243/Trevor-crypto243 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
