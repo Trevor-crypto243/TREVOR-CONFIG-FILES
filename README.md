@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Software Architecture and Data Science
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me ...
-- My Website    https://itstrevor.herokuapp.com/
+- My Website    https://itstrevor.vercel.app/
 - Linkedin   https://www.linkedin.com/in/trevor-ogina-150937213/
 - Instagram  https://www.instagram.com/otitrevor/
 - Github    https://github.com/Trevor-crypto243
