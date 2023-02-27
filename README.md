@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - My Website    https://itstrevor.vercel.app/
 - Linkedin   https://www.linkedin.com/in/trevor-ogina-150937213/
-- Instagram  https://www.instagram.com/otitrevor/
+- Instagram  https://www.instagram.com/trevor_augeaner/
 - Github    https://github.com/Trevor-crypto243
 - Email   otitrevor450@gmail.com
 
