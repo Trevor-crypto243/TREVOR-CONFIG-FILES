@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Trevor Ogina
+- 👋 Hi, I’m Emmanuel Barasa TEnge
 - 👀 I’m interested in software development and programming
 - 🌱 I’m currently learning about Software Architecture and Data Science
 - 💞️ I’m looking to collaborate on open source projects 
@@ -7,9 +7,4 @@
 - Linkedin   https://www.linkedin.com/in/trevor-ogina-150937213/
 - Instagram  https://www.instagram.com/trevor_augeaner/
 - Github    https://github.com/Trevor-crypto243
-- Email   otitrevor450@gmail.com
-
-<!---
-Trevor-crypto243/Trevor-crypto243 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Email   emmabarasa1@gmail.com
