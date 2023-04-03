@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Trevor Ogina 
 - 👀 I’m interested in software development and programming
-- 🌱 I’m currently learning about Software Architecture and Data Science
+- 🌱 I’m currently learning about Software Architecture and Android development
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me ...
 - My Website https://itstrevor.vercel.app
